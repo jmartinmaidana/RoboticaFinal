@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="3">
-  <name>modelo_omnidireccional</name>
+  <name>ejercicio_1</name>
   <version>0.1.0</version>
   <description>Taller de introducción a ROS 2.</description>
   <license>Apache-2.0</license>
